@@ -1,0 +1,39 @@
+body {
+	padding: 30px;
+}
+.outer {
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+	height: 200px;
+	font-size: 0;
+}
+.inner {
+	border: solid black 1px;
+	display:inline-block;
+}
+.one {
+	background-color: green;
+	width: 50%;
+	height: 200px;
+}
+.two {
+	background-color: blue;
+	width: 50%;
+	height: 200px;
+}
+.three {
+	background-color: grey;
+	width: 33.33%;
+	height: 300px;
+}
+.four {
+	background-color: black;
+	width: 33.33%;
+	height: 300px;
+}
+.five {
+	background-color: orange;
+	width: 33.33%;
+	height: 300px;
+}
